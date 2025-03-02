@@ -1,5 +1,17 @@
-# GraphQL Job Board
+# Job Board Application
 
-This is a project used in the [GraphQL by Example](https://www.udemy.com/course/graphql-by-example/?referralCode=7ACEB04674F000BAC061) course.
+A Job Board application built with React and Node.js, utilizing Apollo Server and Apollo Client for seamless GraphQL integration. It leverages Apollo features like caching, `useQuery`, and `useMutation` hooks to optimize data fetching and state management.
 
-It uses Apollo Server with Express, and GraphQL-Request and Apollo Client as GraphQL clients. The application is used to explain queries, mutations, custom object types, authentication, etc.
+## 🚀 Getting Started
+
+Follow these steps to set up the project on your local machine.
+
+### 1️ **Fork or Clone the Repository**
+### 2  **cd client**
+### 3 **npm install**
+### 4 **cd server**
+### 5 **npm install**
+### 6 **cd client**
+### 7 **npm start**
+### 8 **cd server**
+### 9 **npm start**
