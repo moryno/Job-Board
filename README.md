@@ -1,4 +1,4 @@
-# Job Board Application
+# GraphQL Job Board Application
 
 A Job Board application built with React and Node.js, utilizing Apollo Server and Apollo Client for seamless GraphQL integration. It leverages Apollo features like caching, `useQuery`, and `useMutation` hooks to optimize data fetching and state management.
 
